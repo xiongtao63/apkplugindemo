@@ -1,0 +1,2 @@
+include ':app', ':plugin', ':test26'
+rootProject.name='leo_Plugin'
